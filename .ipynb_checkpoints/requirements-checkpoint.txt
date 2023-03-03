@@ -1,0 +1,4 @@
+tensorflow_datasets>=4.8.2
+tensorflow-macos>=2.11.0
+tensorflow-metal>=0.7.1
+jupyterlab>=3.5.0 
